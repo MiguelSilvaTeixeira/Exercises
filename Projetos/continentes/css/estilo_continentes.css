@@ -1,0 +1,99 @@
+body {
+    background-color:rgb(185, 185, 185);
+    background-image:url(aneis_da_olimpiadas.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size:inherit;
+}
+
+#titulo {
+    text-align: center;
+    font-family: "Comic Sans MS";
+    font-size: 1.75em;
+    color:rgb(153, 0, 255);
+}
+
+.subtitulo {
+    text-align: center;
+    font-family: serif;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    text-align: justify;
+}
+
+.fundo_da_pesquisa {
+    display:block;
+    position: "-webkit-sticky";
+    background-color: #c9c6c6;
+    box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.2);
+    padding: 12px 16px;
+    margin: 15px 75px 40px 75px;
+}   
+
+.container_lista {    
+    float:left;
+    margin-right: 10px;
+    margin-bottom: 75px;
+}
+
+.container_paragrafo {
+    margin-right: 10px;
+}
+
+
+#lista_antartica {
+    font-family:cursive;
+    font-size: 1em;
+    color: rgb(255, 255, 255);
+}
+
+#lista_africa {
+    font-family:cursive;
+    font-size: 1em;
+    color: black;
+}
+
+#lista_europa {
+    font-family:cursive;
+    font-size: 1em;
+    color: rgb(0, 119, 255);
+}
+
+#lista_asia {
+    font-family:cursive;
+    font-size: 1em;
+    color: yellow;
+}
+
+#lista_america_norte {
+    font-family:cursive;
+    font-size: 1em;
+    color: red;
+}
+
+#lista_america_norte {
+    font-family:cursive;
+    font-size: 1em;
+    color: red;
+}
+
+#lista_america_sul {
+    font-family:cursive;
+    font-size: 1em;
+    color: red;
+}
+
+#lista_america_central {
+    font-family:cursive;
+    font-size: 1em;
+    color: red;
+}
+
+#lista_oceania {
+    font-family:cursive;
+    font-size: 1em;
+    color: green;
+}
