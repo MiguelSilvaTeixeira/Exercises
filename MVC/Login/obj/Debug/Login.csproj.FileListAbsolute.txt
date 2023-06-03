@@ -1,0 +1,11 @@
+C:\3InterE\c#\Login\bin\Debug\Login.exe.config
+C:\3InterE\c#\Login\bin\Debug\Login.exe
+C:\3InterE\c#\Login\bin\Debug\Login.pdb
+C:\3InterE\c#\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\3InterE\c#\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+C:\3InterE\c#\Login\obj\Debug\Login.FormLogin.resources
+C:\3InterE\c#\Login\obj\Debug\Login.Properties.Resources.resources
+C:\3InterE\c#\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\3InterE\c#\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\3InterE\c#\Login\obj\Debug\Login.exe
+C:\3InterE\c#\Login\obj\Debug\Login.pdb
