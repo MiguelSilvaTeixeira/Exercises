@@ -1,0 +1,55 @@
+body {
+    background-color: gray;
+    font-size: 20px;
+    margin: 35px auto;
+    text-align: justify;
+    height: 750px;
+    width: 1000px;
+}
+
+/*Ex3*/
+
+#tabelaEx3 {
+    text-align: center;
+    font-family: Montserrat, Arial, sans-serif;
+    background: #d6cf42;
+    margin: 0 auto;
+    width: 80%;
+    border: 2px solid black;
+}
+
+.linhaEx3:nth-child(even) {
+    background: #cf3a3a;
+}
+
+.linhaEx3,
+.colunaEx3 {
+    border: 2px solid black;
+}
+
+/*Ex5*/
+#tabelaEx5 {
+    margin: 0 auto;
+}
+
+.colunaEx5 {
+    border:2px solid rgb(106, 1, 243);
+    background-color: rgb(255, 254, 254);
+    height: 30px;
+    width: 30px;
+}
+
+.colunaEx5:nth-child(even) {
+    background: #cf3a3a;
+}
+
+.coluna2Ex5 {
+    border:2px solid rgb(106, 1, 243);
+    background-color: #cf3a3a ;
+    height: 30px;
+    width: 30px;
+}
+
+.coluna2Ex5:nth-child(even) {
+    background: rgb(255, 254, 254);
+}
