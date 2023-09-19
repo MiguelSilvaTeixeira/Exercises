@@ -24,10 +24,10 @@ Obs: Esse projeto é para a utilização da administração da biblioteca.
 
 ![](public/img/menu.png)
 ## <a name="_z7ax0f7zubza"></a>**2. ESTRUTURA DE PASTAS<br>![](public/img/estruturaDePastas.png)**
-<a name="_cadovaf3dblz"></a>**
+<a name="_cadovaf3dblz"></a>
 
 ------------------------------
-## <a name="_7g2efvker91z"></a>**3. DESIGN
+## <a name="_7g2efvker91z"></a>**3. DESIGN**
 // Tela de login (index.php)<br>![](public/img/designLogin.png)
 
 // Home (home.php)<br>![](public/img/designHome.png)
