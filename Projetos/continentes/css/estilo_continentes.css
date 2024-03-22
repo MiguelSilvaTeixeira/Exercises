@@ -1,8 +1,5 @@
 body {
-    background-color:rgb(185, 185, 185);
-    background-image:url(aneis_da_olimpiadas.png);
-    background-repeat: no-repeat;
-    background-position: top;
+    background: rgb(185, 185, 185) url('aneis_da_olimpiadas.png') center top no-repeat fixed;
     background-size:inherit;
 }
 
