@@ -1,7 +1,7 @@
 #Assembly MIPS - Aula 8 - Leitura de Inteiros
 .data
-	saudacao: .asciiz "Olá. Por favor, forneça sua idade: "
-	saida: .asciiz "Sua idade é "
+	saudacao: .asciiz "Olï¿½. Por favor, forneï¿½a sua idade: "
+	saida: .asciiz "Sua idade ï¿½ "
 .text
 	li $v0, 4 #imprimir uma string
 	la $a0, saudacao
@@ -10,12 +10,12 @@
 	li $v0, 5 #leitura de inteiros
 	syscall
 	
-	move $t0, $v0 #valor fornecido está em t0
+	move $t0, $v0 #valor fornecido estÃ¡ em t0
 	
 	li $v0, 4 #imprimir uma string
 	la $a0, saida
 	syscall
 	
-	li $v0, 1
-	move $a0, $t0
+	li $v0, 1 #imprimir inteiro
+	move $a0, $t0 #valor fornecido estÃ¡ em a0
 	syscall
