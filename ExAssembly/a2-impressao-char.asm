@@ -1,4 +1,4 @@
-#Assembly MIPS - Aula 2
+#Assembly MIPS - Aula 2 - Impressão de Char (Apenas um Caractere)
 .data
 	caractere: .byte 'A' #caractere a ser impresso
 .text
