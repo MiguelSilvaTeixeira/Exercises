@@ -1,7 +1,7 @@
 #Assembly MIPS - Aula 8 - Leitura de Inteiros
 .data
-	saudacao: .asciiz "Ol�. Por favor, forne�a sua idade: "
-	saida: .asciiz "Sua idade � "
+	saudacao: .asciiz "Olá. Por favor, forneça sua idade: "
+	saida: .asciiz "Sua idade é "
 .text
 	li $v0, 4 #imprimir uma string
 	la $a0, saudacao
