@@ -1,4 +1,4 @@
-#Assembly MIPS
+#Assembly MIPS - Aula 1
 .data
 	#área para dados na memória principal
 	msg: .asciiz "Hello Word!" #mensagem a ser exibida para o usuário
